@@ -1,0 +1,7 @@
+NAMA DATABASENYA db_crud
+CREATE TABLE `tb_siswa` (
+  `nim` int(60) NOT NULL,
+  `nama_mahasiswa` varchar(100) NOT NULL,
+  `no_hp` varchar(15) NOT NULL,
+  `foto_profil` varchar(100) NOT NULL,
+  `email_mahasiswa` varchar(50) NOT NULL,
